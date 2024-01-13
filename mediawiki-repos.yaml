@@ -224,7 +224,7 @@ CreateRedirect:
 CreateWiki:
   branch: master
   path: extensions/CreateWiki
-  repo_url: https://github.com/WikiForge/CreateWiki
+  repo_url: https://github.com/miraheze/CreateWiki
   composer: true
 CreatedPagesList:
   branch: _branch_
