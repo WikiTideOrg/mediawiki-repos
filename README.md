@@ -1,3 +1,6 @@
+# ARCHIVED
+See [miraheze/mediawiki-repos](https://github.com/miraheze/mediawiki-repos)
+
 # mediawiki-repos
 
 ## Repository Configuration
